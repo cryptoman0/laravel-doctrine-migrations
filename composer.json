@@ -1,5 +1,5 @@
 {
-  "name": "laravel-doctrine/migrations",
+  "name": "cryptoman0/laravel-doctrine-migrations",
   "type": "library",
   "description": "Doctrine Migrations for Laravel",
   "license": "MIT",
